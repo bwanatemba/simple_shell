@@ -25,4 +25,3 @@ char *find_path(void)
 	}
 	return (NULL);
 }
-
